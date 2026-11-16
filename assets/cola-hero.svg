@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>可乐云品牌纸雕插画</title>
+<desc>极简纸雕杯和圆泡，保留轻松愉悦的品牌意象。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="cola-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="cola-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#da9ba0"/><stop offset="1" stop-color="#b63b44"/></linearGradient>
+  <linearGradient id="cola-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e7e9"/><stop offset=".5" stop-color="#edced0"/><stop offset="1" stop-color="#d9999e"/></linearGradient>
+  <linearGradient id="cola-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="cola-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="cola-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="cola-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="cola-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="406" cy="530" rx="205" ry="18" fill="#273933" opacity=".075" filter="url(#cola-blur)"/>
+<g filter="url(#cola-shadow)">
+  <path d="M270 223h266l-34 272c-2 24-46 42-99 42s-98-18-100-42Z" fill="url(#cola-paper)" stroke="#e7dddd" stroke-width="1.5"/>
+  <path d="M444 225h92l-34 270c-2 20-31 35-69 40 30-96 33-210 11-310Z" fill="#ede6e4"/>
+  <path d="M302 354c63 26 133 31 218-10l-7 63c-80 37-139 34-204 4Z" fill="url(#cola-accentSoft)"/>
+  <path d="M303 363c67 27 139 28 216-10" fill="none" stroke="#fff" stroke-width="2" opacity=".7"/>
+  <ellipse cx="403" cy="222" rx="134" ry="47" fill="url(#cola-accentSoft)" stroke="#ead7d7" stroke-width="2"/>
+  <ellipse cx="403" cy="219" rx="114" ry="33" fill="url(#cola-accent)"/>
+  <path d="M297 215c25-28 140-45 214-2" fill="none" stroke="#fff7f4" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+</g>
+<circle cx="356" cy="133" r="37" fill="url(#cola-accent)" filter="url(#cola-smallshadow)"/><circle cx="490" cy="91" r="25" fill="url(#cola-paper)" filter="url(#cola-smallshadow)"/><circle cx="556" cy="157" r="21" fill="url(#cola-accent)" filter="url(#cola-smallshadow)"/><circle cx="216" cy="336" r="24" fill="url(#cola-paper)" filter="url(#cola-smallshadow)"/>
+<path d="M590 368c29-19 60-15 74 9-21 24-55 18-74-9Z" fill="url(#cola-accentSoft)"/>
+<path d="M253 154c-16-24-14-48 7-65 24 23 22 48-7 65Z" fill="url(#cola-paper)" stroke="#e5dfde"/>
+
+</svg>
